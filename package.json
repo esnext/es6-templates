@@ -1,6 +1,6 @@
 {
   "name": "es6-templates",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ES6 template strings compiled to ES5.",
   "main": "lib/index.js",
   "directories": {
