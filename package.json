@@ -1,0 +1,27 @@
+{
+  "name": "es6-templates",
+  "version": "0.0.0",
+  "description": "ES6 template strings compiled to ES5.",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:square/es6-templates.git"
+  },
+  "dependencies": {
+    "esprima": "git://github.com/ariya/esprima.git#harmony",
+    "recast": "~0.5.12",
+    "through": "~2.3.4",
+    "ast-types": "git://github.com/eventualbuddha/ast-types.git#add-template-string-types"
+  },
+  "devDependencies": {
+    "example-runner": "0.1.0"
+  },
+  "scripts": {
+    "test": "node test/runner.js"
+  },
+  "author": "Square, Inc.",
+  "license": "Apache 2"
+}
