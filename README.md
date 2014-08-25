@@ -87,7 +87,7 @@ $ browserify -t es6-templates $file
 
 ## Contributing
 
-[![Build Status](https://travis-ci.org/square/es6-templates.png?branch=master)](https://travis-ci.org/square/es6-templates)
+[![Build Status](https://travis-ci.org/esnext/es6-templates.svg?branch=master)](https://travis-ci.org/esnext/es6-templates)
 
 ### Setup
 
