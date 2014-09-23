@@ -11,10 +11,10 @@
     "url": "git@github.com:square/es6-templates.git"
   },
   "dependencies": {
-    "esprima": "git://github.com/ariya/esprima.git#harmony",
+    "ast-types": "^0.4.9",
+    "esprima-fb": "^6001.1001.0-dev-harmony-fb",
     "recast": "~0.7.0",
-    "through": "~2.3.4",
-    "ast-types": "^0.4.9"
+    "through": "~2.3.4"
   },
   "devDependencies": {
     "example-runner": "0.1.0"
