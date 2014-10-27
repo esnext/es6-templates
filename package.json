@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:square/es6-templates.git"
+    "url": "git@github.com:esnext/es6-templates.git"
   },
   "dependencies": {
     "ast-types": "^0.4.9",
